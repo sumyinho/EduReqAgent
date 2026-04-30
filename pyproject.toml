@@ -1,0 +1,12 @@
+[project]
+name = "edureqagent"
+version = "0.1.0"
+description = "LLM-based four-agent workflow for evidence-grounded learning requirement generation."
+requires-python = ">=3.10"
+dependencies = [
+  "pydantic>=2.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

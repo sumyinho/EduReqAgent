@@ -1,0 +1,7 @@
+Identify.Base.Case: Identify Base Case
+Prove.Base.Case: Prove Base Case
+Hypothesis.is.stated: Hypothesis is stated
+Hypothesis.is.given.some.bound: Hypothesis is given some bound
+Goal.is.Clear: Goal is clear
+Expression.of.Size.k.1.is.decomposed.into.expression.of.size.k: Expression of size k+1 is decomposed into expression of size k
+Inductive.Hypothesis.is.applied: Inductive Hypothesis is applied

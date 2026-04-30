@@ -1,0 +1,9 @@
+{
+  "Identify.Base.Case": 2,
+  "Prove.Base.Case": 1,
+  "Hypothesis.is.stated": 2,
+  "Hypothesis.is.given.some.bound": 0,
+  "Goal.is.Clear": 2,
+  "Expression.of.Size.k.1.is.decomposed.into.expression.of.size.k": 0,
+  "Inductive.Hypothesis.is.applied": 0
+}

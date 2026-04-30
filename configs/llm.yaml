@@ -1,0 +1,10 @@
+# OpenAI-compatible LLM configuration.
+# Environment variables override these values when set.
+provider: openai_compatible
+base_url: ${LLM_BASE_URL}
+api_key: ${LLM_API_KEY}
+model: ${LLM_MODEL}
+temperature: 0.2
+max_retries: 3
+timeout_seconds: 60
+enabled: true
