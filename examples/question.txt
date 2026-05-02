@@ -1,1 +1,0 @@
-Prove by induction that for all natural numbers n, sum_{i=0}^n i = n(n+1)/2.

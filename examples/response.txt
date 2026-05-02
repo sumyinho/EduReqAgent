@@ -1,5 +1,0 @@
-Base case n = 1 works.
-
-Assume P(k). We need prove P(k+1).
-
-I do some algebra and conclude the statement is true.
